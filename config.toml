@@ -1,0 +1,50 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Tier0 Network"
+theme = "hugo-whisper-theme"
+
+pygmentsCodeFences = true
+pygmentsCodefencesGuessSyntax = true
+pygmentsUseClasses = true
+
+[[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+
+[[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 2
+
+[[menu.main]]
+    name = "t0.enterprise"
+    url = "/enterprise/"
+    weight = 3
+
+[[menu.main]]
+    name = "t0.foundation"
+    url = "/foundation/"
+    weight = 4
+
+[params]
+  google_analytics_id=""
+  homepage_button_link = '/about'
+  homepage_button_text = 'Read About Us'
+  homepage_intro = "We develop and maintain Open Source software. And that's it."
+  homepage_image = '/images/terminal.gif'
+
+  [params.homepage_meta_tags]
+    meta_description = "Hugo Whisper is a documentation theme built with Hugo."
+    meta_og_title = "Hugo Whisper Theme"
+    meta_og_type = "website"
+    meta_og_url = "https://t0.network"
+    meta_og_image = "https://raw.githubusercontent.com/JugglerX/hugo-whisper-theme/master/images/tn.png"
+    meta_og_description = "Hugo Whisper is a documentation theme built with Hugo."
+    meta_twitter_card = "summary"
+    meta_twitter_site = "@zerostaticio"
+    meta_twitter_creator = "@zerostaticio"
+
+  [params.logo]
+      mobile = "/images/logo-mobile.svg"
+      standard  = "/images/logo.svg"
