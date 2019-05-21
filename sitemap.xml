@@ -3,52 +3,52 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/about/what/</loc>
+    <loc>https://t0.network/about/what/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/about/foundation/</loc>
+    <loc>https://t0.network/about/foundation/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/about/enterprise/</loc>
+    <loc>https://t0.network/about/enterprise/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/about/licensing/</loc>
+    <loc>https://t0.network/about/licensing/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/about/what-is-public/</loc>
+    <loc>https://t0.network/about/what-is-public/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/about/coc/</loc>
+    <loc>https://t0.network/about/coc/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/about/</loc>
+    <loc>https://t0.network/about/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://t0.network/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/enterprise/</loc>
+    <loc>https://t0.network/enterprise/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/foundation/</loc>
+    <loc>https://t0.network/foundation/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/</loc>
+    <loc>https://t0.network/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://t0.network/tags/</loc>
     <priority>0</priority>
   </url>
   
