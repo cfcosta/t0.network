@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://t0.network/"
 languageCode = "en-us"
 title = "Tier0 Network"
 theme = "hugo-whisper-theme"
