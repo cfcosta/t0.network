@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home Page on Tier0 Network</title>
+    <link>http://example.org/</link>
+    <description>Recent content in Home Page on Tier0 Network</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>What is Tier0?</title>
+      <link>http://example.org/about/what/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/about/what/</guid>
+      <description>Tier0 is two things: an Open Source software company, and an Open Source Software Collective, both with a common goal to maintain and promote Open Source as a viable approach to software development.
+To do so, we do two things:
+ Support some selected Open Source projects, with both development time and money. Provide enterprise-level support and development for those projects.  </description>
+    </item>
+    
+    <item>
+      <title>t0.foundation</title>
+      <link>http://example.org/about/foundation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/about/foundation/</guid>
+      <description>It is a non-profit organization that funds development of Open Source Software. It hires developers, managers, QEs, designers, UX Developers and Technical Writers to develop the projects under its umbrella, as well as donating funds to other Open Source projects and adopting projects from the community under it.
+The projects sponsored by the foundation is mentioned here as sponsored, while paid development for other, non-adopted projects is mentioned as financed.</description>
+    </item>
+    
+    <item>
+      <title>t0.enterprise</title>
+      <link>http://example.org/about/enterprise/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/about/enterprise/</guid>
+      <description>It is a for-profit entity that sells IT support, packaging, backporting of bug and security fixes, and customized versions of the Open Source software developed by t0.foundation. Part of the profit from those services will be donated monthly to the foundation, funding the development of those projects.
+The provided services are:
+ Paid maintenance for financed projects. Paid maintenance for sponsored projects. Development of new sponsored projects. Development of new financed projects.</description>
+    </item>
+    
+    <item>
+      <title>Code Licensing</title>
+      <link>http://example.org/about/licensing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/about/licensing/</guid>
+      <description>Code published by us is usually licensed with the MIT License, unless stated otherwise in the project&amp;rsquo;s README.
+If, for some reason, your use case is not covered with the MIT License, please send us an e-mail and we can think of a way to make it work for you.</description>
+    </item>
+    
+    <item>
+      <title>What is public and what is not?</title>
+      <link>http://example.org/about/what-is-public/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/about/what-is-public/</guid>
+      <description>Anything is considered &amp;ldquo;public&amp;rdquo; unless said otherwise. That includes, but it is not limited by:
+ Organizational Structure Communication Channels Budgets and Transaction Lists (possibly anonymized). Data on management platforms, such as JIRA or Basecamp. Code.  In general, any form of private communication is done via private means (e-mails, direct messages), and anything with bigger reach is public.
+&amp;ldquo;Public&amp;rdquo;, in those terms, means that the information can be found online on a website that does not require the creation of an account to view the data.</description>
+    </item>
+    
+    <item>
+      <title>Code of Conduct</title>
+      <link>http://example.org/about/coc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/about/coc/</guid>
+      <description>Tier0 and all its associates are expected to follow the Contributor Covenant v1.4.
+In addition, some other behaviors are considered unacceptable:
+ Discrimination based on political alignment, such as publicly ask for removal of members for subscribing to certain political stances. Public targeting of other members of the community without going through the normal process.  We don&amp;rsquo;t have yet an email for reporting incidents, so for now if any happen contact someone on the core team.</description>
+    </item>
+    
+  </channel>
+</rss>

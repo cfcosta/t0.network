@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://example.org/about/what/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/about/foundation/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/about/enterprise/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/about/licensing/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/about/what-is-public/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/about/coc/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/about/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/enterprise/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/foundation/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
