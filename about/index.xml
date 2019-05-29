@@ -11,45 +11,13 @@
     
     
     <item>
-      <title>What is Tier0?</title>
-      <link>https://t0.network/about/what/</link>
+      <title>For Clients</title>
+      <link>https://t0.network/about/1-clients/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://t0.network/about/what/</guid>
-      <description>Tier0 is two things: an Open Source software company, and an Open Source Software Collective, both with a common goal to maintain and promote Open Source as a viable approach to software development.
-To do so, we do two things:
- Support some selected Open Source projects, with both development time and money. Provide enterprise-level support and development for those projects.  </description>
-    </item>
-    
-    <item>
-      <title>t0.foundation</title>
-      <link>https://t0.network/about/foundation/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://t0.network/about/foundation/</guid>
-      <description>It is a non-profit organization that funds development of Open Source Software. It hires developers, managers, QEs, designers, UX Developers and Technical Writers to develop the projects under its umbrella, as well as donating funds to other Open Source projects and adopting projects from the community under it.
-The projects sponsored by the foundation is mentioned here as sponsored, while paid development for other, non-adopted projects is mentioned as financed.</description>
-    </item>
-    
-    <item>
-      <title>t0.enterprise</title>
-      <link>https://t0.network/about/enterprise/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://t0.network/about/enterprise/</guid>
-      <description>It is a for-profit entity that sells IT support, packaging, backporting of bug and security fixes, and customized versions of the Open Source software developed by t0.foundation. Part of the profit from those services will be donated monthly to the foundation, funding the development of those projects.
-The provided services are:
- Paid maintenance for financed projects. Paid maintenance for sponsored projects. Development of new sponsored projects. Development of new financed projects.</description>
-    </item>
-    
-    <item>
-      <title>Code Licensing</title>
-      <link>https://t0.network/about/licensing/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://t0.network/about/licensing/</guid>
-      <description>Code published by us is usually licensed with the MIT License, unless stated otherwise in the project&amp;rsquo;s README.
-If, for some reason, your use case is not covered with the MIT License, please send us an e-mail and we can think of a way to make it work for you.</description>
+      <guid>https://t0.network/about/1-clients/</guid>
+      <description>Who are you? We are a small remote team currently based on São Paulo, Brazil. We have been working as software developers for at least 10 years each, and have good experience with Open Source software.
+What do you do? In summary, we help companies interact with the Open Source world, providing guidance to create communities around products, understand the benefits and drawbacks when working with Open Source, and help companies financially sponsor development of projects.</description>
     </item>
     
     <item>

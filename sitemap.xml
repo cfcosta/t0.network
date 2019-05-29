@@ -3,19 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://t0.network/about/what/</loc>
-  </url>
-  
-  <url>
-    <loc>https://t0.network/about/foundation/</loc>
-  </url>
-  
-  <url>
-    <loc>https://t0.network/about/enterprise/</loc>
-  </url>
-  
-  <url>
-    <loc>https://t0.network/about/licensing/</loc>
+    <loc>https://t0.network/about/1-clients/</loc>
   </url>
   
   <url>
@@ -33,14 +21,6 @@
   <url>
     <loc>https://t0.network/categories/</loc>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://t0.network/enterprise/</loc>
-  </url>
-  
-  <url>
-    <loc>https://t0.network/foundation/</loc>
   </url>
   
   <url>
